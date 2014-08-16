@@ -7,8 +7,8 @@
     <ProjectGuid>{CC3D2F42-DEBD-495F-AA52-7DE8BE7BD081}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>DynamoPacking</RootNamespace>
-    <AssemblyName>DynamoPacking</AssemblyName>
+    <RootNamespace>DynamoPack</RootNamespace>
+    <AssemblyName>DynamoPack</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <TargetFrameworkProfile />
